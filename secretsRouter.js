@@ -8,10 +8,8 @@ secretsRouter.route('/')
       <html>
       <body>
         <b>
-          Secret tunnel!<br>
-          Secret tunnel!<br>
-          Through the mountain!<br>
-          Secret, secret, secret, secret tunnel!
+          The Secret life !<br>
+          In the mountain!
         </b>
       </body>
       </html>
